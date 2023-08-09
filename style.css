@@ -1,0 +1,21 @@
+.my-shadow{
+    box-shadow:10px 10px 5px black  ;
+}
+.my-img{
+    border: 5px solid whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top: 190px;
+    left: 65px;
+}
+.card-body{
+    margin-top: 50px;
+}
+.img-3{
+    height: 500px;
+}
+hr{
+    width: 60px;
+    height: 10px;
+    color: red;
+}
